@@ -143,3 +143,10 @@ PLAN_HACKATON.md
 CLAUDE.md
 AGENTS.md
 .claude/
+
+# Assets de ejemplo de Next.js (no usados)
+public/file.svg
+public/globe.svg
+public/next.svg
+public/vercel.svg
+public/window.svg
